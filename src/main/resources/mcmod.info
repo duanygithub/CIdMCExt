@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cidmcext",
+  "name": "CIdMCExt",
+  "description": "CIdCore Minecraft Extension",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["duanyB"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
